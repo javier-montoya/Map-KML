@@ -422,9 +422,8 @@
 
 		<Placemark>
 			<name>Rockaway pointer</name>
-			<styleUrl>#__managed_style_0B4288CC321A9CAC1DA1</styleUrl>
 			<Point>
-				<coordinates>-74.51333507438804,40.89331061640556,168.3195592792161</coordinates>
+				<coordinates>-74.21348122922234,41.13391848017046,0 -74.4310426866078</coordinates>
 			</Point>
 		</Placemark>
 
