@@ -422,17 +422,6 @@
 
 		<Placemark id="03DF222CFC1A9CB29886">
 			<name>Rockaway pointer</name>
-			<LookAt>
-				<longitude>-74.46203454878722</longitude>
-				<latitude>40.78021476069469</latitude>
-				<altitude>92.83543496439607</altitude>
-				<heading>0</heading>
-				<tilt>0</tilt>
-				<gx:fovy>35</gx:fovy>
-				<range>72775.31233736315</range>
-				<altitudeMode>absolute</altitudeMode>
-			</LookAt>
-			<styleUrl>#__managed_style_0B4288CC321A9CAC1DA1</styleUrl>
 			<Point>
 				<coordinates>-74.51333507438804,40.89331061640556,168.3195592792161</coordinates>
 			</Point>
