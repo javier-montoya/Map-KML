@@ -431,7 +431,7 @@
 			<name>Rockaway pointer</name>
 			<styleUrl>#randomColorIcon</styleUrl>
 			<Point>
-				<coordinates>-74.51333507438804,40.89331061640556,168.3195592792161</coordinates>
+				<coordinates>-74.51333507438804,40.89331061640556,0</coordinates>
 			</Point>
 		</Placemark>
 
