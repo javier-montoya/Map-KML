@@ -35,6 +35,13 @@
 				<displayName>AWATER</displayName>
 			</SimpleField>
 		</Schema>
+		<Style id="randomColorIcon">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
 		<Style id="KMLStyler2026341634">
 			<IconStyle>
 				<scale>0.8</scale>
@@ -420,10 +427,11 @@
 			</Polygon>
 		</Placemark>
 
-		<Placemark>
+		<Placemark id="03DF222CFC1A9CB29886">
 			<name>Rockaway pointer</name>
+			<styleUrl>#randomColorIcon</styleUrl>
 			<Point>
-				<coordinates>-74.21348122922234,41.13391848017046,0 -74.4310426866078</coordinates>
+				<coordinates>-74.51333507438804,40.89331061640556,168.3195592792161</coordinates>
 			</Point>
 		</Placemark>
 
